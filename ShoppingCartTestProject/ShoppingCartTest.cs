@@ -1,7 +1,7 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using ShoppingCartLib;
 
-namespace UnitTestProject1
+namespace ShoppingCartTestProject
 {
     [TestClass]
     public class ShoppingCartTest
