@@ -1,0 +1,17 @@
+C:\Users\Will\source\repos\ShoppingCart\UnitTestProject1\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Will\source\repos\ShoppingCart\UnitTestProject1\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Will\source\repos\ShoppingCart\UnitTestProject1\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Will\source\repos\ShoppingCart\UnitTestProject1\bin\Debug\netcoreapp2.1\ShoppingCartTestProject.deps.json
+C:\Users\Will\source\repos\ShoppingCart\UnitTestProject1\bin\Debug\netcoreapp2.1\ShoppingCartTestProject.runtimeconfig.json
+C:\Users\Will\source\repos\ShoppingCart\UnitTestProject1\bin\Debug\netcoreapp2.1\ShoppingCartTestProject.runtimeconfig.dev.json
+C:\Users\Will\source\repos\ShoppingCart\UnitTestProject1\bin\Debug\netcoreapp2.1\ShoppingCartTestProject.dll
+C:\Users\Will\source\repos\ShoppingCart\UnitTestProject1\bin\Debug\netcoreapp2.1\ShoppingCartTestProject.pdb
+C:\Users\Will\source\repos\ShoppingCart\UnitTestProject1\obj\Debug\netcoreapp2.1\ShoppingCartTestProject.csprojAssemblyReference.cache
+C:\Users\Will\source\repos\ShoppingCart\UnitTestProject1\obj\Debug\netcoreapp2.1\ShoppingCartTestProject.csproj.CoreCompileInputs.cache
+C:\Users\Will\source\repos\ShoppingCart\UnitTestProject1\obj\Debug\netcoreapp2.1\ShoppingCartTestProject.AssemblyInfoInputs.cache
+C:\Users\Will\source\repos\ShoppingCart\UnitTestProject1\obj\Debug\netcoreapp2.1\ShoppingCartTestProject.AssemblyInfo.cs
+C:\Users\Will\source\repos\ShoppingCart\UnitTestProject1\obj\Debug\netcoreapp2.1\ShoppingCartTestProject.dll
+C:\Users\Will\source\repos\ShoppingCart\UnitTestProject1\obj\Debug\netcoreapp2.1\ShoppingCartTestProject.pdb
+C:\Users\Will\source\repos\ShoppingCart\UnitTestProject1\bin\Debug\netcoreapp2.1\ShoppingCartLib.dll
+C:\Users\Will\source\repos\ShoppingCart\UnitTestProject1\bin\Debug\netcoreapp2.1\ShoppingCartLib.pdb
+C:\Users\Will\source\repos\ShoppingCart\UnitTestProject1\obj\Debug\netcoreapp2.1\ShoppingCartTestProject.csproj.CopyComplete
