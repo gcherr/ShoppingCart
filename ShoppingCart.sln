@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.28307.1231
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingCartLib", "ShoppingCart\ShoppingCartLib.csproj", "{8EA55C1C-8E43-4DCC-B629-BB68F8BDA6AA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingCartTestProject", "UnitTestProject1\ShoppingCartTestProject.csproj", "{1EDE5CB6-DB53-4849-B276-BB16B7A1F082}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingCartTestProject", "ShoppingCartTestProject\ShoppingCartTestProject.csproj", "{1EDE5CB6-DB53-4849-B276-BB16B7A1F082}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

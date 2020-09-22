@@ -5855,11 +5855,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Will\\source\\repos\\ShoppingCart\\UnitTestProject1\\ShoppingCartTestProject.csproj",
+      "projectUniqueName": "C:\\Users\\Will\\source\\repos\\ShoppingCart\\ShoppingCartTestProject\\ShoppingCartTestProject.csproj",
       "projectName": "ShoppingCartTestProject",
-      "projectPath": "C:\\Users\\Will\\source\\repos\\ShoppingCart\\UnitTestProject1\\ShoppingCartTestProject.csproj",
+      "projectPath": "C:\\Users\\Will\\source\\repos\\ShoppingCart\\ShoppingCartTestProject\\ShoppingCartTestProject.csproj",
       "packagesPath": "C:\\Users\\Will\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Will\\source\\repos\\ShoppingCart\\UnitTestProject1\\obj\\",
+      "outputPath": "C:\\Users\\Will\\source\\repos\\ShoppingCart\\ShoppingCartTestProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
